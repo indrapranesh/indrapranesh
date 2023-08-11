@@ -1,0 +1,22 @@
+{
+  "name": "indrapranesh",
+  "version": "1.0.0",
+  "description": "Github portfolio",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/indrapranesh/indrapranesh.git"
+  },
+  "author": "indrapraneh",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/indrapranesh/indrapranesh/issues"
+  },
+  "homepage": "https://github.com/indrapranesh/indrapranesh#readme",
+  "dependencies": {
+    "markdown-it": "^13.0.1"
+  }
+}
