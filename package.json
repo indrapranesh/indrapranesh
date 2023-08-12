@@ -17,6 +17,8 @@
   },
   "homepage": "https://github.com/indrapranesh/indrapranesh#readme",
   "dependencies": {
-    "markdown-it": "^13.0.1"
+    "fs": "^0.0.1-security",
+    "markdown-it": "^13.0.1",
+    "markdown-it-emoji": "^2.0.2"
   }
 }
