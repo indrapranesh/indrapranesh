@@ -5,7 +5,7 @@
 <h2>⚡ A Few Quick Facts</h2>
 <ul>
 <li>🧐 Learning about <strong>GraphQL</strong>, <strong>frontend design systems</strong>, and a bit of <strong>AI</strong>.</li>
-<li>👨‍💻 Most of my projects are available on <a href="https://github.com/Spiderpig86">Github</a>.</li>
+<li>👨‍💻 Most of my projects are available on <a href="https://github.com/indrapranesh">Github</a>.</li>
 <li>📝 I <s>regulary</s> am planning to write articles on <a href="https://pranesh.dev/">my blog</a>.</li>
 <li>💬 Ping me about <strong>React, JavaScript, frontend</strong>.</li>
 <li>🎉 Fun Fact: I can name all the capitals of the world, but I can't remember where I left my keys five minutes ago. 🗺️🔑</li>
